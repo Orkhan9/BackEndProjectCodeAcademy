@@ -13,7 +13,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="858b0293-6a1e-4f89-90be-290146ee2621" name="Default Changelist" comment="" />
+    <list default="true" id="858b0293-6a1e-4f89-90be-290146ee2621" name="Default Changelist" comment="Second commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -91,6 +91,7 @@
       <workItem from="1604326910039" duration="1600000" />
       <workItem from="1604404609801" duration="1642000" />
       <workItem from="1604692877097" duration="713000" />
+      <workItem from="1606764187414" duration="303000" />
     </task>
     <task id="LOCAL-00001" summary="Add BackendProject">
       <created>1604328248904</created>
@@ -113,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604406666288</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Second commit">
+      <created>1606764474881</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1606764474881</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,7 +145,8 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Add BackendProject" />
     <MESSAGE value="Added Backend" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Backend" />
+    <MESSAGE value="Second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second commit" />
   </component>
   <component name="WindowStateProjectService">
     <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1604693596583">
